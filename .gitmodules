@@ -1,0 +1,6 @@
+[submodule "Unit2-01/ICS4U-Unit2-01-Java"]
+	path = Unit2-01/ICS4U-Unit2-01-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit2-01-Java.git
+[submodule "Unit2-01/ICS4U-Unit2-01-Typescript"]
+	path = Unit2-01/ICS4U-Unit2-01-Typescript
+	url = https://github.com/CristianoSellitto/ICS4U-Unit2-01-Typescript.git
