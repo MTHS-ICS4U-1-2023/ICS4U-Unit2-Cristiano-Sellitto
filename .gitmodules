@@ -25,3 +25,12 @@
 [submodule "Unit2-05/ICS4U-Unit2-05-Typescript"]
 	path = Unit2-05/ICS4U-Unit2-05-Typescript
 	url = https://github.com/CristianoSellitto/ICS4U-Unit2-05-Typescript.git
+[submodule "Unit2-05/ICS4U-Unit2-05-Java"]
+	path = Unit2-05/ICS4U-Unit2-05-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit2-05-Java.git
+[submodule "Unit2-06/ICS4U-Unit2-06-Typescript"]
+	path = Unit2-06/ICS4U-Unit2-06-Typescript
+	url = https://github.com/CristianoSellitto/ICS4U-Unit2-06-Typescript.git
+[submodule "Unit2-06/ICS4U-Unit2-06-Java"]
+	path = Unit2-06/ICS4U-Unit2-06-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit2-06-Java.git
