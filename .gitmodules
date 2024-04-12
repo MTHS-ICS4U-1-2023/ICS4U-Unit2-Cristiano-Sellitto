@@ -49,3 +49,6 @@
 [submodule "Unit2-09/ICS4U-Unit2-09-Typescript"]
 	path = Unit2-09/ICS4U-Unit2-09-Typescript
 	url = https://github.com/CristianoSellitto/ICS4U-Unit2-09-Typescript.git
+[submodule "Unit2-09/ICS4U-Unit2-09-Java"]
+	path = Unit2-09/ICS4U-Unit2-09-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit2-09-Java.git
